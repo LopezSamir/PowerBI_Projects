@@ -23,7 +23,15 @@ to focus only on jobs in the United States.
 
 <img width="1007" height="569" alt="djs US BusinessAnalyst" src="https://github.com/user-attachments/assets/80d24c2b-df60-423e-be31-3ee5ea3e17cf" />
 
-##Insights
+## Insights
+
+The following insights were found when looking at data for the 2024 data job market:
+
+1. The amount of Data Analyst jobs is much higher, at 40k, than the number of Business Analyst jobs, which is only 7k.
+2. The average salary for Business Analysts is higher at $97k compared to $93k for Data Analysts.
+3. An explanation to why Business Analysts seem to be paid more than Data Analysts in the United States is that Data Analysts roles are much more variable. One Data Analyst role could require a wide range of skills while Business Analysts roles tend to require similar roles. There is also more entry-level Data Analyst jobs, which pulls the average salary down.
+
+
 
 
 
